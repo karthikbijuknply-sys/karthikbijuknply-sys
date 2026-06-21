@@ -17,10 +17,7 @@ I’m a cybersecurity and cloud enthusiast who enjoys exploring how systems work
 ![](https://github-profile-trophy.vercel.app/?username=karthikbijuknply-sys&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=karthikbijuknply-sys&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?typ
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
