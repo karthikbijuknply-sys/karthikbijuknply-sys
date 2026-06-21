@@ -1,36 +1,35 @@
-## Hi there 👋
-# 💫 About Me:
-I’m a cybersecurity and cloud enthusiast who enjoys exploring how systems work and how they can be made more secure. I’m currently learning about cybersecurity fundamentals (Security+ level), Linux systems, networking basics, and cloud security concepts. I’m always open to collaborating on beginner-friendly ideas, learning together on small security topics, and helping out with Linux, networking, and cybersecurity basics wherever I can. Feel free to ask me about my learning journey in cybersecurity, how I’m getting started with ethical hacking concepts, or anything related to tech and security. Fun fact: I like making even simple terminal work feel like something out of a hacker movie.
+i ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Karthik B
+==================================================================================================================================
 
+Security Enthusiast
+-------------------
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_biju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karthik-b-8730a53b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikbijuknply@gmail.com) 
+Curious by nature, tech enthusiast by choice. Exploring cybersecurity, cloud technologies, and new ideas—always learning, always building.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karthikbijuknply-sys&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=karthikbijuknply-sys&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthikbijuknply-sys&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/karthik-b-8730a53b4)
+* ✉️  You can contact me at [karthikbijuknply@gmail.com](mailto:karthikbijuknply@gmail.com)
+* 🧠  I'm currently learning Cloud security
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikbijuknply-sys&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?typ
+### Socials
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**karthikbijuknply-sys/karthikbijuknply-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.github.com/karthikbijuknply-sys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/karthik-b-8730a53b4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/karthikbijuknply-sys" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/karthikbijuknply-sys?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-Here are some ideas to get you started:
+<b>My GitHub Stats</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/karthikbijuknply-sys"><img src="https://github-readme-stats.vercel.app/api?username=karthikbijuknply-sys&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="karthikbijuknply-sys's GitHub stats" /></a>
+
+<a href="http://www.github.com/karthikbijuknply-sys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbijuknply-sys&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/karthikbijuknply-sys" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbijuknply-sys&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
