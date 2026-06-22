@@ -4,14 +4,14 @@
 
 </div>
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp;
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> 
       I'm Karthik B</h2>
 
 <h4>B.Tech Computer Engineering &nbsp;·&nbsp; Kerala, India</h4>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Cybersecurity+%7C+Linux+%7C+Networking+%7C+Security+Automation;Building+practical+security+projects+%F0%9F%9B%A1%EF%B8%8F;Serious+about+security.+Learning+every+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=680&lines=Hey+there!+👋+Welcome+to+my+GitHub.;Grab+a+coffee,+look+around.;B.Tech+CSE+@+CU+Andhra+Pradesh;Exploring+AI+%26+Cybersecurity;Staying+one+step+ahead+of+yesterday.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-b-8730a53b4)
 &nbsp;[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikbijuknply@gmail.com)
