@@ -27,9 +27,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-B.Tech Computer Engineering student from Kerala, India — building a strong foundation in **cybersecurity, networking, and security automation**.
+B.Tech CSE student at the Central University of Andhra Pradesh.
 
-Working hands-on with **Linux, Python, and networking** to understand how systems are built, broken, and protected. I believe in learning by doing — every project teaches me something a textbook never could.
+I enjoy understanding how systems work beneath the surface—whether that's Linux internals, network traffic, or security events hidden inside logs.
+
+Most of my learning happens through projects, experiments, and breaking things safely enough to put them back together.
 
 - 🎯 &nbsp;Career focus: Cybersecurity & Network Security
 - 🐧 &nbsp;Daily driver: Linux
