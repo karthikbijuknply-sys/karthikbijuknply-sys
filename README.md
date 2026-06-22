@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a2f4a,0d1117&height=160&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Change the width and height numbers below individually to stretch or scale the banner -->
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="1200" height="160" />
+
+
 
 </div>
 
