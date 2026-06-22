@@ -4,7 +4,8 @@
 
 </div>
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp;I'm Karthik B</h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp;
+      I'm Karthik B</h2>
 
 <h4>B.Tech Computer Engineering &nbsp;·&nbsp; Kerala, India</h4>
 
@@ -43,7 +44,7 @@ Working hands-on with **Linux, Python, and networking** to understand how system
 
 ## 🏅 Certifications
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="140"/>
+
 
 | &nbsp; | Certification | Issuer | Status |
 |:---:|:---|:---:|:---:|
@@ -155,6 +156,6 @@ Working hands-on with **Linux, Python, and networking** to understand how system
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a2f4a,0d1117&height=120&section=footer" width="100%"/>
 
-*Made with ❤️ + 🐧 + ☕ · Karthik B · Kerala, India*
+
 
 </div>
