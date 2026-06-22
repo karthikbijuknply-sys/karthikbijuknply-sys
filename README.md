@@ -132,7 +132,7 @@ Working hands-on with **Linux, Python, and networking** to understand how system
 
 **Live Output Preview:**
 
-<img src="threat-detection.png" width="96%" alt="Linux HIDS Live Output — Real-Time Threat Detection"/>
+<img src="https://github.com/karthikbijuknply-sys/linux-hids-automation/blob/main/screenshots/threat-detection.png" width="96%" alt="Linux HIDS Live Output — Real-Time Threat Detection"/>
 
 > *Screenshot: HIDS running in demo mode — detecting SSH brute-force attempts from 192.168.1.50, classifying risk, and generating a forensic report before switching to persistent active monitoring.*
 
